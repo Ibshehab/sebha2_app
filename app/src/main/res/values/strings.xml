@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Sebha_App</string>
+    <array name="azkirLists">
+
+        <item >سبحان الله</item>
+        <item >الحمد لله </item>
+        <item > لا اله إلا الله</item>
+        <item >الله اكبر </item>
+
+
+
+
+    </array>
+</resources>
